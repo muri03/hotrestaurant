@@ -1,0 +1,27 @@
+{
+  "name": "hotrestaurant",
+  "version": "1.0.0",
+  "description": "express node demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muri03/hotrestaurant.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Muriel Mangubat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muri03/hotrestaurant/issues"
+  },
+  "homepage": "https://github.com/muri03/hotrestaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
